@@ -28,3 +28,6 @@ propiedades usadas no projeto.
 * textarea= Na informática textarea refere-se a um elemento e interface gráfica que permite ao usuario inserir e editar texto.
 * button= Em informática, um botão é um elemento de interface gráfica que permite ao usuário executar um elemento a ser clicado.
 * form= Form é uma interface que permite ao usuário inserir e enviar dados.
+
+## Resultado Final
+![Resultado final do projeto](img/Final%20do%20projeto.PNG)
